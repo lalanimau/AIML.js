@@ -60,4 +60,4 @@ aimlInterpreter.findAnswerInLoadedAIMLFiles('What is my name?', callback);
 
 <br/>
 <b>Contributors</b><br/>
-Special thanks go to Sergio Rodriguez (https://github.com/sergiorodez), who contributed to the interpreter and enhanced its functionalities
+Special thanks go to Lalani Maulik (https://github.com/lalanimau/), who contributed to the interpreter and enhanced its functionalities
